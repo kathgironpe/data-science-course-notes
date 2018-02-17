@@ -28,7 +28,7 @@ A lot of graduate school students struggle with Data Science courses only becaus
 
 Here's how I make my notes:
 
-My notes include videos from Khan Academy. The content's the same and often a bit better due to lack of errors. The text are usually from the Coursera video transcripts.
+My notes include videos from Khan Academy and other websites. The content's the same, and often a bit better due to lack of errors. The text are usually from the Coursera video transcripts.
 
 I indicate **why** it is important to learn such concepts through **Further Reading** notes.
 
@@ -66,7 +66,7 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 * [Distance formula](http://www.ccimath.ca/distance-formula.html)
 
 
-$d = \sqrt{ (x_2 – x_1)^2 + (y_2 – y_1)^2 }$
+$d = \sqrt{ (x_2-x_1)^2 + (y_2-y_1)^2 }$
 
 
 ### Point-Slope Formula for Lines
