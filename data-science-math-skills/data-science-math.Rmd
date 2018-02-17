@@ -47,8 +47,8 @@ I indicate **why** it is important to learn such concepts through **Further Read
 
 Those who studied Discrete Mathematics or read a book about it will probably just re-learn a lot from this course on Set Basics.
 
-* [Applications of Set Theory in Computer Science](https://www.quora.com/What-are-the-applications-of-set-theory-in-computer-science/answer/Joshua-Gross-8)
-* [Discrete Mathematics and Its Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Kenneth-Rosen/dp/0072899050)
+* [Applications of Set Theory in Computer Science](https://www.quora.com/What-are-the-applications-of-set-theory-in-computer-science/answer/Joshua-Gross-8) - A list of the most obvious applications of Set Theory.
+* [Discrete Mathematics and Its Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Kenneth-Rosen/dp/0072899050) - I read most of the book as a supplemental material for a Discrete Math course. The book clearly states why a set is the foundational structure in Computer Science.
 
 
 ## Descartes Was Really Smart
