@@ -9,6 +9,7 @@ output:
     highlight: pygments
     theme: spacelab
     toc: yes
+urlcolor: blue
 ---
 
 $\pagebreak$
