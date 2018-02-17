@@ -1,0 +1,58 @@
+---
+title: "Data Science Math Skills"
+author: "Katherine G. Pe"
+output:
+  pdf_document:
+    toc: yes
+    toc_depth: 3
+  html_document:
+    highlight: pygments
+    theme: spacelab
+    toc: yes
+---
+
+$\pagebreak$
+
+
+# Course Information
+
+Data Science Math Skills by **Duke University** is a online course you can take on [Coursera](https://www.coursera.org/learn/datasciencemathskills). 
+
+
+## Motivation for Learning & Re-learning
+
+A lot of graduate school students struggle with Data Science courses only because of their lack of knowledge and/or understanding of Mathematics for Data Science. The course gives an overview of Mathematical concepts you will encounter while learning Data Science. 
+
+
+## Supplemnetal Notes and Videos
+
+Here's how I make my notes:
+
+My notes include videos from Khan Academy. The content's the same and often a bit better due to lack of errors. Those in text are usually from the Coursera video transcripts. 
+
+I indicate **why** it is important to learn such concepts through **Further Reading** notes. 
+
+
+## Sets and What They're Good For
+
+### Set Basics and Vocabulary
+
+
+## Descartes Was Really Smart
+
+### Plotting Points
+
+* The x-axis is going to be the set of all points x-y in the Cartesian plane, x-y in R2, such that their y coordinate is zero.
+ 
+* We divide the Cartesian plane into four separate regions, and these we call **quadrants**.
+
+* [Coordinate plane: quadrants](https://www.youtube.com/watch?v=1op92ojA6q0)
+
+### Distance Formula
+
+* [Distance formula](http://www.ccimath.ca/distance-formula.html)
+
+
+$d = \sqrt{ (x_2 – x_1)^2 + (y_2 – y_1)^2 }$
+
+
