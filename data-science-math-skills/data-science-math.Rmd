@@ -41,6 +41,7 @@ I indicate **why** it is important to learn such concepts through **Further Read
 * [Set Theory](https://plato.stanford.edu/entries/set-theory/)
 * [Set Theory Operations](https://brilliant.org/wiki/set-theory/)
 
+
 #### Further Reading
 
 > A set is the fundamental discrete structure on which all other discrete structures are built.
@@ -49,6 +50,18 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 
 * [Applications of Set Theory in Computer Science](https://www.quora.com/What-are-the-applications-of-set-theory-in-computer-science/answer/Joshua-Gross-8) - A list of the most obvious applications of Set Theory.
 * [Discrete Mathematics and Its Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Kenneth-Rosen/dp/0072899050) - I read most of the book as a supplemental material for a Discrete Math course. The book clearly states why a set is the foundational structure in Computer Science.
+
+
+
+### Venn Diagrams
+
+* [What are Venn diagrams?](https://www.bbc.co.uk/education/guides/zt7rk7h/revision)
+
+
+#### Further Reading
+
+* [A Visual Explanation of SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
+
 
 
 ## Descartes Was Really Smart
