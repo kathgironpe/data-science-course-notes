@@ -16,26 +16,29 @@ $\pagebreak$
 
 # Course Information
 
-Data Science Math Skills by **Duke University** is a online course you can take on [Coursera](https://www.coursera.org/learn/datasciencemathskills). 
+Data Science Math Skills by **Duke University** is a online course you can take on this site  [Coursera](https://www.coursera.org/learn/datasciencemathskills).
 
 
 ## Motivation for Learning & Re-learning
 
-A lot of graduate school students struggle with Data Science courses only because of their lack of knowledge and/or understanding of Mathematics for Data Science. The course gives an overview of Mathematical concepts you will encounter while learning Data Science. 
+A lot of graduate school students struggle with Data Science courses only because of their lack of knowledge and/or understanding of Mathematics for Data Science. The course gives an overview of Mathematical concepts you will encounter while learning Data Science.
 
 
 ## Supplemnetal Notes and Videos
 
 Here's how I make my notes:
 
-My notes include videos from Khan Academy. The content's the same and often a bit better due to lack of errors. Those in text are usually from the Coursera video transcripts. 
+My notes include videos from Khan Academy. The content's the same and often a bit better due to lack of errors. Those in text are usually from the Coursera video transcripts.
 
-I indicate **why** it is important to learn such concepts through **Further Reading** notes. 
+I indicate **why** it is important to learn such concepts through **Further Reading** notes.
 
 
 ## Sets and What They're Good For
 
+
 ### Set Basics and Vocabulary
+
+* [Set Theory](https://plato.stanford.edu/entries/set-theory/)
 
 
 ## Descartes Was Really Smart
@@ -43,7 +46,7 @@ I indicate **why** it is important to learn such concepts through **Further Read
 ### Plotting Points
 
 * The x-axis is going to be the set of all points x-y in the Cartesian plane, x-y in R2, such that their y coordinate is zero.
- 
+
 * We divide the Cartesian plane into four separate regions, and these we call **quadrants**.
 
 * [Coordinate plane: quadrants](https://www.youtube.com/watch?v=1op92ojA6q0)
@@ -56,3 +59,17 @@ I indicate **why** it is important to learn such concepts through **Further Read
 $d = \sqrt{ (x_2 – x_1)^2 + (y_2 – y_1)^2 }$
 
 
+### Point-Slope Formula for Lines
+
+* [Point Slope Form](https://www.khanacademy.org/math/algebra/two-var-linear-equations/point-slope/a/point-slope-form-review)
+
+$y-b=m(x-a)$
+
+
+### Slope-Intercept Formula
+
+* [Slope Intercept Equation](https://www.khanacademy.org/math/algebra/two-var-linear-equations/point-slope/v/point-slope-and-slope-intercept-form-from-two-points)
+
+* [Intro to Slope Intercept Form](https://www.khanacademy.org/math/algebra/two-var-linear-equations/slope-intercept-form/a/introduction-to-slope-intercept-form)
+
+$y=mx+b$
