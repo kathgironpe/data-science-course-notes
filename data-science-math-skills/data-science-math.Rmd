@@ -134,10 +134,26 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 
 * [Vertical line test](https://en.wikipedia.org/wiki/Vertical_line_test)
 
-* The **vertical line** test says: *any vertical line, intersects the graph of a function once. If it intersects it more than once, we violate things here.
+* The **vertical line** test says: *any vertical line, intersects the graph of a function once*. If it intersects it more than once, we violate things here.
 
 
 ### Increasing and Decreasing Functions
+
+* A function is increasing whenever:
+
+    $a < b $
+
+    $f(a) < f(b)$
+
+    $f(x) = 2^x - \text{An example of an increasing function}$
+
+* A function is decreasing whenever:
+
+    $a > b$
+
+    $f(a) > f(b)$
+
+    $g(x) = 3^{-x} - \text{An example of a decreasing function}$
 
 
 ### Composition and Inverse
