@@ -83,6 +83,10 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 * The Sigma has similarities to the [factorial](https://www.khanacademy.org/math/precalculus/prob-comb/combinatorics-precalc/v/zero-factorial-or-0) symbol, but it suggests that you add the values of *i* based on the stopping point *n*
 
 
+### Further Reading
+
+* [Graph-based Machine Learning](https://blog.insightdatascience.com/graph-based-machine-learning-6e2bd8926a0)
+
 
 ## Descartes Was Really Smart
 
@@ -157,6 +161,11 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 
 
 ### Composition and Inverse
+
+* [How to find the inverse of a composite function](https://math.stackexchange.com/questions/59929/how-to-find-inverse-of-a-composite-function)
+* [Evaluating Composite functions](https://www.youtube.com/watch?v=oORnGaJp1pk)
+* Not every function has an inverse.
+* If the graph of *f* fails the *horizontal line test*, the graph has no inverse.
 
 
 
