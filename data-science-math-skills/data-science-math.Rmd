@@ -145,7 +145,7 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 
 * A function is increasing whenever:
 
-    $a < b $
+    $a < b$
 
     $f(a) < f(b)$
 
