@@ -111,6 +111,11 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 
     $y-b=m(x-a)$
 
+* [Calculating the Slope](http://cls.syr.edu/mathtuneup/grapha/Unit4/Unit4a.html)
+
+    $(y^2-y^1/x^2-x^1)$
+
+
 
 ### Slope-Intercept Formula
 
