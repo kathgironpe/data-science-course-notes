@@ -124,3 +124,23 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 ### Functions: Mapping from Sets to Sets
 
 * [Functions on Sets - UCLA](http://www.math.ucla.edu/~radko/circles/lib/data/Handout-759-870.pdf)
+
+    $f: A \rightarrow B$
+
+
+### Functions: Graphing in the Cartesian Plane
+
+* [Functions on a Coordinate Plane](https://www.ck12.org/algebra/functions-on-a-coordinate-plane/lesson/Functions-on-a-Cartesian-Plane-BSC-ALG/)
+
+* [Vertical line test](https://en.wikipedia.org/wiki/Vertical_line_test)
+
+* The **vertical line** test says: *any vertical line, intersects the graph of a function once. If it intersects it more than once, we violate things here.
+
+
+### Increasing and Decreasing Functions
+
+
+### Composition and Inverse
+
+
+
