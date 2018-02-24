@@ -173,4 +173,23 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 * If the graph of *f* fails the *horizontal line test*, the graph has no inverse.
 
 
+## This is about that derivative stuff
 
+
+### Tangent Lines - Slope of a Graph at a Point
+
+* [How to find the slope & equation of tangent line at a given point](https://www.youtube.com/watch?v=Uataz2hvNks)
+* [Finding the Equation Of A Tangent Line](http://gato-docs.its.txstate.edu/slac/Subject/Math/Calculus/Findting-the-Equation-of-a-Tangent-Line/Finding)
+* A **Tangent Line** is a line which locally touches a curve at one and only one point.
+* Formulas:
+
+    $f'(a)$
+
+### Tangent Lines - The Derivative Function
+
+* [The derivative & tangent line equations](https://www.khanacademy.org/math/ap-calculus-ab/ab-derivative-intro/ab-linearity/v/derivative-as-slope-of-tangent-line)
+* Formulas:
+
+    $f'(x) = 2x$
+
+    $f(x) = x^{2}$
