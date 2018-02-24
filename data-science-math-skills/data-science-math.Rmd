@@ -193,3 +193,77 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
     $f'(x) = 2x$
 
     $f(x) = x^{2}$
+
+
+## Fast Growth, Slow Growth
+
+
+### Using Integer Exponents
+
+* 0 as an exponent:
+
+    $2^{0}=1$
+
+* Negative exponents:
+
+    $x^{-n}=1/x^{n}$
+
+* [Scientific Notation](https://www.youtube.com/watch?v=WwmJ5nMmigQ)
+
+
+### Simplification Rules for Algebra using Exponents
+
+* Multiplication rule
+
+    $x^{n}x^{m} = x^{(n+m)}$
+
+* Power to a power
+
+    $(x^{n})m = x^{nm}$
+
+* Product to a power
+
+    $(xy)^{n} = x^{n}y^{n}$
+
+* Fraction to a power
+
+    $(x/y)^{n} = x^{n}/y^{n}$
+
+* Division and negative powers
+
+    $x^{n}/x^{n} = x^{n-m}$
+
+* Fractional exponents
+
+    $x^(a/b) = ^{b} \sqrt{x^{a}}$
+
+
+### How Logarithms & Exponents are Related
+
+* [Intro to logarithms](https://www.khanacademy.org/math/algebra2/exponential-and-logarithmic-functions/introduction-to-logarithms/v/logarithms)
+
+* Exponential form:
+
+    $b^{x} = N$
+
+* Logarithmic form:
+
+    $x=log_{b} = N$
+
+* The logarithm of any base of 1 is 0
+
+
+#### General rules
+
+* Product rule
+
+    $log(xy) = log(x) + log(y)$
+
+* Quotient rule
+
+    $log\frac(x/y)  = log(x) - log(y)$
+
+
+* Power and root rule
+
+    $log(x^{n}) = n log(x)$
