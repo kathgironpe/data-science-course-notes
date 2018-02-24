@@ -250,7 +250,7 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 
     $x=log_{b} = N$
 
-* The logarithm of any base of 1 is 0
+* The logarithm of any base of 1 is 0, just as any number raised to 0 is 1.
 
 
 #### General rules
@@ -261,9 +261,41 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 
 * Quotient rule
 
-    $log\frac(x/y)  = log(x) - log(y)$
+    $log\frac{x}{y}  = log(x) - log(y)$
 
 
 * Power and root rule
 
     $log(x^{n}) = n log(x)$
+
+### Change of Base
+
+
+* The base of **10**, **2** and the natural log *(e)* are common in Data Science.
+
+* Formula for changing the base:
+
+    $log_{a}(b) = \frac{log_{x}(b)}{log_{x}(a))}$
+
+### The Rate of Growth of Continuous Processes
+
+* Exponential rate of growth can be a **discrete** exponential rate of growth or a **continuous** exponential rate of growth.
+
+* Note: those who studied Finance will likely see the practicality of knowing, but not of the terms of themselves.
+
+* Discrete rate of growth:
+
+    $1.00(1 + r)t$
+
+* [Euler's contstant *e*](https://en.wikipedia.org/wiki/E_(mathematical_constant))
+
+* What is *e*?
+
+    $2.71828$
+
+* Euler is pronounced *Oyler*. He's a mathematician most famously known of his solution to the graph theory problem: [Seven Bridges of Königsberg](https://en.wikipedia.org/wiki/Seven_Bridges_of_K%C3%B6nigsberg)
+
+* Problem: A baby elephant weighing 200 kg grows at a continuously compounded rate of 5%/year. How much does it weigh in 3 years?
+
+    $(200 kg)e^{(0.05)(3)} = 232.4 kg$
+
