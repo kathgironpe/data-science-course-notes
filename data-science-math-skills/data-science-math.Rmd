@@ -231,7 +231,7 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 
 * Division and negative powers
 
-    $x^{n}/x^{n} = x^{n-m}$
+    $\frac{x^{n}}{x^{n}} = x^{n-m}$
 
 * Fractional exponents
 
