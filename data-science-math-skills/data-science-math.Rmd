@@ -235,7 +235,7 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 
 * Fractional exponents
 
-    $x^(a/b) = ^{b} \sqrt{x^{a}}$
+    $x^{(\frac{(a}{b})} = ^{b} \sqrt{x^{a}}$
 
 
 ### How Logarithms & Exponents are Related
