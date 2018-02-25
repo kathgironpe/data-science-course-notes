@@ -252,6 +252,7 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 
 * The logarithm of any base of 1 is 0, just as any number raised to 0 is 1.
 
+* [Solving Logarithmic Equations](https://www.youtube.com/watch?v=BxD6ZFbu01c): This video was more helpful in understanding how to solve for *x* on a Logarithmic equation problem.
 
 #### General rules
 
