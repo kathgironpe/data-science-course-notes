@@ -227,7 +227,7 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 
 * Fraction to a power
 
-    $(x/y)^{n} = x^{n}/y^{n}$
+    $\frac{x}{y}^{n} = \frac{x^{n}}{y^{n}}$
 
 * Division and negative powers
 
@@ -235,7 +235,7 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 
 * Fractional exponents
 
-    $x^{(\frac{(a}{b})} = ^{b} \sqrt{x^{a}}$
+    $x^{(\frac{a}{b})} = ^{b} \sqrt{x^{a}}$
 
 
 ### How Logarithms & Exponents are Related
@@ -254,6 +254,7 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 
 * [Solving Logarithmic Equations](https://www.youtube.com/watch?v=BxD6ZFbu01c): This video was more helpful in understanding how to solve for *x* on a Logarithmic equation problem.
 
+
 #### General rules
 
 * Product rule
@@ -268,6 +269,12 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 * Power and root rule
 
     $log(x^{n}) = n log(x)$
+
+#### Further Reading
+
+* One of the most popular concepts in Data Science is in its logarthmic form (*ln*): [Logistic Regression](http://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_Multivariable/BS704_Multivariable8.html)
+
+* Watch more about [Simple Logistic Regression](https://www.youtube.com/watch?v=_Po-xZJflPM)
 
 ### Change of Base
 
