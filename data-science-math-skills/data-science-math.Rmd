@@ -307,3 +307,16 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 
     $(200 kg)e^{(0.05)(3)} = 232.4 kg$
 
+
+## Basic Probability Definitions
+
+### Probability Definitions and Notation
+
+#### Definition
+
+* Probability is the degree of belief in the truth or falsity of a statement.
+* When I am certain that a statement is true then that statement is assigned probability **1** and if I'm certain the statement is false,
+ then it's assigned probability is **0**.
+
+
+
