@@ -444,8 +444,33 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 
 ### Bayes Theorem
 
+* [The Bayesian Trap](https://www.youtube.com/watch?v=R13BD8qKeTg)
+
+* [Bayes' Theorem and Cancer Screening](https://www.youtube.com/watch?v=j2tNxIaGpR4)
+
 * Used for **inverse probability problems**.
 
 * The formula:
 
     $$P(A \mid B) = \frac{P(B \mid A) \, P(A)}{P(B)}$$
+
+* *posterior probability* — probability after new data is observed
+* *prior probability* — probability before any data is observed or before new data is observed likelihood—standard forward probability of data given parameters
+* *marginal probability* — probability of the data
+
+
+#### Inverse Probability
+
+* An inverse probability problem is one where the answer is in the form of the probability that a certain process with a certain probability parameter is being used to generate the observed data.
+
+### Binomial Theorem
+
+* [Binomial Theorem](https://medium.com/@oeyhcez/pascals-triangle-and-binomial-theorem-41cde7ed3c12)
+
+* It's binomial because it's used when there are two possible outcomes.
+
+* The formula:
+
+
+    $$ (x+y)^n = \sum_{k=0}^n {n \choose k} x^{n - k} y^k $$
+
