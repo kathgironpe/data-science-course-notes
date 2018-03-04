@@ -78,7 +78,7 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 
 * [Sigma/Summation Notation](http://www.columbia.edu/itc/sipa/math/summation.html)
 
-    $\sum_{n=1}^{10} n^{2}$
+    $$\sum_{n=1}^{10} n^{2}$$
 
 * The Sigma has similarities to the [factorial](https://www.khanacademy.org/math/precalculus/prob-comb/combinatorics-precalc/v/zero-factorial-or-0) symbol, but it suggests that you add the values of *i* based on the stopping point *n*
 
@@ -102,18 +102,18 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 
 * [Distance formula](http://www.ccimath.ca/distance-formula.html)
 
-    $d = \sqrt{ (x_2-x_1)^2 + (y_2-y_1)^2 }$
+    $$d = \sqrt{ (x_2-x_1)^2 + (y_2-y_1)^2 }$$
 
 
 ### Point-Slope Formula for Lines
 
 * [Point Slope Form](https://www.khanacademy.org/math/algebra/two-var-linear-equations/point-slope/a/point-slope-form-review)
 
-    $y-b=m(x-a)$
+    $$y-b=m(x-a)$$
 
 * [Calculating the Slope](http://cls.syr.edu/mathtuneup/grapha/Unit4/Unit4a.html)
 
-    $(y2-y1/x2-x1)$
+    $$(y2-y1/x2-x1)$$
 
 
 
@@ -123,7 +123,7 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 
 * [Intro to Slope Intercept Form](https://www.khanacademy.org/math/algebra/two-var-linear-equations/slope-intercept-form/a/introduction-to-slope-intercept-form)
 
-    $y=mx+b$
+    $$y=mx+b$$
 
 
 
@@ -134,7 +134,7 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 
 * [Functions on Sets - UCLA](http://www.math.ucla.edu/~radko/circles/lib/data/Handout-759-870.pdf)
 
-    $f: A \rightarrow B$
+    $$f: A \rightarrow B$$
 
 
 ### Functions: Graphing in the Cartesian Plane
@@ -150,19 +150,19 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 
 * A function is increasing whenever:
 
-    $a < b$
+    $$a < b$$
 
-    $f(a) < f(b)$
+    $$f(a) < f(b)$$
 
-    $f(x) = 2^x - \text{An example of an increasing function}$
+    $$f(x) = 2^x - \text{An example of an increasing function}$$
 
 * A function is decreasing whenever:
 
-    $a > b$
+    $$a > b$$
 
-    $f(a) > f(b)$
+    $$f(a) > f(b)$$
 
-    $g(x) = 3^{-x} - \text{An example of a decreasing function}$
+    $$g(x) = 3^{-x} - \text{An example of a decreasing function}$$
 
 
 ### Composition and Inverse
@@ -183,16 +183,16 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 * A **Tangent Line** is a line which locally touches a curve at one and only one point.
 * Formulas:
 
-    $f'(a)$
+    $$f'(a)$$
 
 ### Tangent Lines - The Derivative Function
 
 * [The derivative & tangent line equations](https://www.khanacademy.org/math/ap-calculus-ab/ab-derivative-intro/ab-linearity/v/derivative-as-slope-of-tangent-line)
 * Formulas:
 
-    $f'(x) = 2x$
+    $$f'(x) = 2x$$
 
-    $f(x) = x^{2}$
+    $$f(x) = x^{2}$$
 
 
 ## Fast Growth, Slow Growth
@@ -202,11 +202,11 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 
 * 0 as an exponent:
 
-    $2^{0}=1$
+    $$2^{0}=1$$
 
 * Negative exponents:
 
-    $x^{-n}=1/x^{n}$
+    $$x^{-n}=1/x^{n}$$
 
 * [Scientific Notation](https://www.youtube.com/watch?v=WwmJ5nMmigQ)
 
@@ -215,27 +215,27 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 
 * Multiplication rule
 
-    $x^{n}x^{m} = x^{(n+m)}$
+    $$x^{n}x^{m} = x^{(n+m)}$$
 
 * Power to a power
 
-    $(x^{n})m = x^{nm}$
+    $$(x^{n})m = x^{nm}$$
 
 * Product to a power
 
-    $(xy)^{n} = x^{n}y^{n}$
+    $$(xy)^{n} = x^{n}y^{n}$$
 
 * Fraction to a power
 
-    $\frac{x}{y}^{n} = \frac{x^{n}}{y^{n}}$
+    $$\frac{x}{y}^{n} = \frac{x^{n}}{y^{n}}$$
 
 * Division and negative powers
 
-    $\frac{x^{n}}{x^{n}} = x^{n-m}$
+    $$\frac{x^{n}}{x^{n}} = x^{n-m}$$
 
 * Fractional exponents
 
-    $x^{(\frac{a}{b})} = ^{b} \sqrt{x^{a}}$
+    $$x^{(\frac{a}{b})} = ^{b} \sqrt{x^{a}}$$
 
 
 ### How Logarithms & Exponents are Related
@@ -244,11 +244,11 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 
 * Exponential form:
 
-    $b^{x} = N$
+    $$b^{x} = N$$
 
 * Logarithmic form:
 
-    $x=log_{b} = N$
+    $$x=log_{b} = N$$
 
 * The logarithm of any base of 1 is 0, just as any number raised to 0 is 1.
 
@@ -259,16 +259,16 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 
 * Product rule
 
-    $log(xy) = log(x) + log(y)$
+    $$log(xy) = log(x) + log(y)$$
 
 * Quotient rule
 
-    $log\frac{x}{y}  = log(x) - log(y)$
+    $$log\frac{x}{y}  = log(x) - log(y)$$
 
 
 * Power and root rule
 
-    $log(x^{n}) = n log(x)$
+    $$log(x^{n}) = n log(x)$$
 
 #### Further Reading
 
@@ -283,7 +283,7 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 
 * Formula for changing the base:
 
-    $log_{a}(b) = \frac{log_{x}(b)}{log_{x}(a)}$
+    $$log_{a}(b) = \frac{log_{x}(b)}{log_{x}(a)}$$
 
 ### The Rate of Growth of Continuous Processes
 
@@ -293,19 +293,19 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 
 * Discrete rate of growth:
 
-    $1.00(1 + r)t$
+    $$1.00(1 + r)t$$
 
 * [Euler's contstant *e*](https://en.wikipedia.org/wiki/E_(mathematical_constant))
 
 * What is *e*?
 
-    $2.71828$
+    $$2.71828$$
 
 * Euler is pronounced *Oyler*. He's a mathematician most famously known of his solution to the graph theory problem: [Seven Bridges of Königsberg](https://en.wikipedia.org/wiki/Seven_Bridges_of_K%C3%B6nigsberg)
 
 * Problem: A baby elephant weighing 200 kg grows at a continuously compounded rate of 5%/year. How much does it weigh in 3 years?
 
-    $(200 kg)e^{(0.05)(3)} = 232.4 kg$
+    $$(200 kg)e^{(0.05)(3)} = 232.4 kg$$
 
 
 ## Basic Probability Definitions
@@ -323,27 +323,27 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 
 * The probability of x:
 
-    $P(x)$
+    $$P(x)$$
 
 * The negation of statement x:
 
-    $~x$
+    $$~x$$
 
 #### Law of excluded middle
 
 * Probability of a statement and the probability of the negation of a statement must sum to 1.
 
-    $P(x) + P(~x) = 0$
+    $$P(x) + P(~x) = 0$$
 
 #### Principle of indifference
 
 * For the *i-th* outcome *xi* in a distribution with *n* possible outcomes.
 
 
-    $P_{xi} = \frac{1}{n}$
+    $$P_{xi} = \frac{1}{n}$$
 
 
-    $P\text{(event)} = \frac{\text{number of outcomes as defined in event}}{\text{total number of possible outcomes in universe}}$
+    $$P\text{(event)} = \frac{\text{number of outcomes as defined in event}}{\text{total number of possible outcomes in universe}}$$
 
 ### Permutations and Combinations
 
@@ -352,13 +352,13 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 * Order matters
 * Example:
 
-    $\text{placing five people in five different positions: 120 ways}$
+    $$\text{placing five people in five different positions: 120 ways}$$
 
 * [Permutations](https://www.youtube.com/watch?v=XqQTXW7XfYA)
 
 * Formula:
 
-    $\frac{n!}{(n - m)!}$
+    $$\frac{n!}{(n - m)!}$$
 
 
 #### Combinations
@@ -366,14 +366,14 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 * Order does not matter
 * Example:
 
-    $\text{forming a five-person team from five people: 1}$
+    $$\text{forming a five-person team from five people: 1}$$
 
 
 * [Combinations](https://www.youtube.com/watch?v=iKy-d5_erhI)
 
 * Formula:
 
-    $\frac{n!}{r! (n - r)}$
+    $$\frac{n!}{r! (n - r)}$$
 
 #### Replacement
 
@@ -394,7 +394,7 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 
 * Draw *n* items from a group of *m* items without replacement.
 
-    ${m\choose n} = \frac{m!}{ (m-n)! n!}$
+    $${m\choose n} = \frac{m!}{ ( m - n)! n!}$$
 
 
 #### Further Reading
@@ -402,3 +402,50 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 * This is a recap of Discrete Mathematics. Try to read  [Discrete Mathematics and Its Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Kenneth-Rosen/dp/0072899050).
 
 
+### The Sum Rule, Conditional Probability, and the Product Rule
+
+
+#### Marginal probabilities and the sum rule
+
+
+#### Sum rule
+
+* The marginal probability is equal to the sum of the joint probabilities.
+
+    $$P_{(x1)} = P_{(x1, y1)} + P_{(x1, y2)} + P_{(x1, y3)}$$
+
+* Sum rule for binary probability distribution:
+
+    $$P(A) = P(A, B) + P(A, \mathtt{\sim}B)$$
+
+* Sum rule for series of n probabilities:
+
+    $$P(A) = P(A, B1) + P(A, B2) + ... + P(A, B_n)$$
+
+####  Conditional probability
+
+* The probability that a statement is true given that some other statement is true with certainty.
+
+    $$P(A \mid B)$$
+
+    $$\text{Probability of A given that B is true with certainty.}$$
+
+    $$P(A \mid B) = \frac{\text{relevant outcomes}}{\text{total outcomes remaining in universe, when B is true}}$$
+
+#### Product Rule
+
+* Formula:
+
+    $$P(A \mid B) = \frac{P(A, B)}{P(B)}$$
+
+
+## Applying Bayes Theorem and Binomial Theorem
+
+
+### Bayes Theorem
+
+* Used for **inverse probability problems**.
+
+* The formula:
+
+    $$P(A \mid B) = \frac{P(B \mid A) \, P(A)}{P(B)}$$
