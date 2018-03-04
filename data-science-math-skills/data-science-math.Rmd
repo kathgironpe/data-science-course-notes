@@ -345,4 +345,38 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 
     $P\text{(event)} = \frac{\text{number of outcomes as defined in event}}{\text{total number of possible outcomes in universe}}$
 
+### Permutations and Combinations
 
+#### Permutations
+
+* Order matters
+* Example:
+
+    $\text{placing five people in five different positions: 120 ways}$
+
+* [Permutations](https://www.youtube.com/watch?v=XqQTXW7XfYA)
+
+* Formula:
+
+    $\frac{n!}{(n - m)!}$
+
+
+#### Combinations
+
+* Order does not matter
+* Example:
+
+    $\text{forming a five-person team from five people: 1}$
+
+
+* [Combinations](https://www.youtube.com/watch?v=iKy-d5_erhI)
+
+* Formula:
+
+    $\frac{n!}{r! (n - r)}$
+
+#### Replacement
+
+* Sampling *with replacement* (independent), e.g. drawing a card and putting it back in the deck
+
+* Sampling *without replacement*, e.g. drawing a card from a deck and not putting it back
