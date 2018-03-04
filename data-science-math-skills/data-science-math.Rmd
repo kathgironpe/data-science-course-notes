@@ -386,6 +386,13 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 * Sampling *without replacement*, e.g. drawing a card from a deck and not putting it back
 
 
+#### Independent versus Dependent
+
+* When two events are said to be **independent** of each other, what this means is that the probability that one event occurs in no way affects the probability of the other event occurring. An example of two independent events is as follows; say you rolled a die and flipped a coin. The probability of getting any number face on the die in no way influences the probability of getting a head or a tail on the coin.
+
+* When two events are said to be **dependent**, the probability of one event occurring influences the likelihood of the other event.
+
+
 ### Using Factorial and "M choose N"
 
 
