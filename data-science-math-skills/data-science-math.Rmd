@@ -380,3 +380,25 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 * Sampling *with replacement* (independent), e.g. drawing a card and putting it back in the deck
 
 * Sampling *without replacement*, e.g. drawing a card from a deck and not putting it back
+
+
+### Using Factorial and "M choose N"
+
+
+#### Factorial
+
+* A factorial is the operation where we take a number and multiply it by each integer that is 1 less until we get down to 1.
+
+
+#### "m choose n"
+
+* Draw *n* items from a group of *m* items without replacement.
+
+    ${m\choose n} = \frac{m!}{ (m-n)! n!}$
+
+
+#### Further Reading
+
+* This is a recap of Discrete Mathematics. Try to read  [Discrete Mathematics and Its Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Kenneth-Rosen/dp/0072899050).
+
+
