@@ -329,6 +329,8 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 
     $$~x$$
 
+* [Coin-flipping Probability](https://www.khanacademy.org/math/precalculus/prob-comb/compound-probability-of-ind-events-using-mult-rule/v/getting-at-least-one-heads)
+
 #### Law of excluded middle
 
 * Probability of a statement and the probability of the negation of a statement must sum to 1.
