@@ -283,7 +283,7 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 
 * Formula for changing the base:
 
-    $log_{a}(b) = \frac{log_{x}(b)}{log_{x}(a))}$
+    $log_{a}(b) = \frac{log_{x}(b)}{log_{x}(a)}$
 
 ### The Rate of Growth of Continuous Processes
 
@@ -318,5 +318,31 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 * When I am certain that a statement is true then that statement is assigned probability **1** and if I'm certain the statement is false,
  then it's assigned probability is **0**.
 
+
+#### Notation
+
+* The probability of x:
+
+    $P(x)$
+
+* The negation of statement x:
+
+    $~x$
+
+#### Law of excluded middle
+
+* Probability of a statement and the probability of the negation of a statement must sum to 1.
+
+    $P(x) + P(~x) = 0$
+
+#### Principle of indifference
+
+* For the *i-th* outcome *xi* in a distribution with *n* possible outcomes.
+
+
+    $P_{xi} = \frac{1}{n}$
+
+
+    $P\text{(event)} = \frac{\text{number of outcomes as defined in event}}{\text{total number of possible outcomes in universe}}$
 
 
