@@ -472,6 +472,11 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 * *marginal probability* — probability of the data
 
 
+#### Further Reading
+
+* [Think Bayes](https://www.safaribooksonline.com/library/view/think-bayes/9781491945407/)
+
+
 #### Inverse Probability
 
 * An inverse probability problem is one where the answer is in the form of the probability that a certain process with a certain probability parameter is being used to generate the observed data.
