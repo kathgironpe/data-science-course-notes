@@ -412,7 +412,7 @@ Those who studied Discrete Mathematics or read a book about it will probably jus
 
 #### Further Reading
 
-* This is a recap of Discrete Mathematics. Try to read  [Discrete Mathematics and Its Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Kenneth-Rosen/dp/0072899050).
+* This is a review of Discrete Mathematics. Try to read  [Discrete Mathematics and Its Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Kenneth-Rosen/dp/0072899050).
 
 
 ### The Sum Rule, Conditional Probability, and the Product Rule
